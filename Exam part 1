@@ -1,0 +1,20 @@
+<html>
+    <head><title>Name: MIRANDA, MARVIE B.</title></head>
+     <h1>COMPROG</h1>   
+     <h2>Miranda, Marvie B.</h2>
+    
+    <h2>Age: 18</h2>
+    
+    <h2>Course: I.T</h2>
+    
+    <body bgcolor = "cyan"> 
+    <p>My Hobbies is playing games,playing guitar</p>
+    <marquee>WOop Woop</marquee>    
+    <font face = "Calisto MT" color ="yellow" size ="5px"><i>c</i></font>
+    <font face = "Times New Roman" color ="red" size ="15px">C</font>
+    <font face = "Chiller" color ="green" size ="15px"><i><b>S</b></i></font>
+    <font face = "Algerian" color ="blue" size ="15px"><u><b>T</b></u></font>
+  
+    
+    </body>
+</html>
