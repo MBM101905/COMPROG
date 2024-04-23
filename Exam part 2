@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Name: MIRANDA, MARVIE B.</title>
+                <style>
+p {
+    background-image: url('Apple-September-Event-California-Streaming-BasicAppleGuy-iDownloadBlog-6K-No-Logo.png');  
+} 
+
+</style>
+    
+<style>
+    body {
+        background-image: url('12345.jfif');
+    }       
+         </style>
+         
+         </head>
+         <body> 
+             
+             <img src ="download.jfif" width="80" height="80">
+     <p>Paragraph</p>
+    
+
+     <b>bold</b>
+     <i>italic</i>
+     <u>Underline</u>
+     
+     
+     <h3>HEADING</h3>
+    
+    <body bgcolor = "white"> 
+     
+    <font face = "Algerian" color ="white" size ="5px">MARK</font>
+    <font face = "Times New Roman" color ="white" size ="15px">Mark</font>
+    <font face = "Times New Roman" color ="cyan" size ="5px">Mark</font>
+    <marquee>WOop Woop</marquee> 
+    <br>
+    <marquee
+        direction="down" 
+  width="250"
+  height="200"
+  behavior="alternate"
+  style="border:solid">
+  <marquee behavior="alternate">This text will bounce</marquee>
+
+
+    
+    </body>
+</html>
